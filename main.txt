@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 and here i am, MASTER
+=======
+just kidding, I am the end-all-be-all
+>>>>>>> new-branch
